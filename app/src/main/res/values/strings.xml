@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string-array name="todo_array">
+        <item>All</item>
+        <item>Random</item>
+        <item>School</item>
+        <item>Work</item>
+        <item>Payments</item>
+    </string-array>
+
+    <string-array name="category_array">
+        <item>Random</item>
+        <item>School</item>
+        <item>Work</item>
+        <item>Payments</item>
+    </string-array>
+</resources>
